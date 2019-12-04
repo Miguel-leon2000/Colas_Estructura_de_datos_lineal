@@ -13,6 +13,3 @@ En este problema comprendi la implementacion de metodos para crear un programa q
 una lista circular, para posteriormente extraer los numeros negativos de la cola original y agregarlos
 a una nueva cola.
 #
-**-Palabras clave:**
- 
-from, import, class, def, None, return, if, else, elif, while, return, for, in, break
